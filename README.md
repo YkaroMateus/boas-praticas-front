@@ -1,4 +1,3 @@
-```md
 # 📘 Manual Técnico de Boas Práticas  
 ### Vite + MUI + TypeScript
 
@@ -195,5 +194,3 @@ useEffect(() => {
 ---
 
 🚀 Mantenha seu projeto organizado, performático e preparado para escalar!
-
-```
