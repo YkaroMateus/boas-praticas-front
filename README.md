@@ -1,7 +1,3 @@
-Claro! Aqui está o conteúdo formatado para um `README.md`, com emojis, títulos claros e exemplos de código devidamente destacados:
-
----
-
 ```md
 # 📘 Manual Técnico de Boas Práticas  
 ### Vite + MUI + TypeScript
